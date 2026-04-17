@@ -1,0 +1,24 @@
+{
+  "name": "ai_learning_and_poc_development_coffee_tracker",
+  "version": "1.0.0",
+  "description": "A family coffee tracker that notifies about coffee run-out and predicts further expenses along with the statistics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlsextx/ai_learning_and_poc_development_coffee_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlsextx/ai_learning_and_poc_development_coffee_tracker/issues"
+  },
+  "homepage": "https://github.com/vlsextx/ai_learning_and_poc_development_coffee_tracker#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
+    "dotenv": "^17.4.2"
+  }
+}
